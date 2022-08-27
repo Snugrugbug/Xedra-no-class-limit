@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "xedra_no_class_limit",
+    "name": "Xedra Expanded No Class Limit",
+    "authors": [ "SRB" ],
+    "maintainers": [ "SRB" ],
+    "description": "Remove limitation of conflict spell classes.",
+    "category": "rebalance",
+    "dependencies": [ "xedra_evolved" ]
+  }
+]
